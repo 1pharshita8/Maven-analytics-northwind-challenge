@@ -1,4 +1,4 @@
-# Maven-analytics-northwind-challenge
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aaf6944c-de79-4487-8540-fbd2c8c648f1" /># Maven-analytics-northwind-challenge
 Power BI sales analysis project created for the Maven Analytics Northwind Challenge.
 
 📊 Northwind Traders – Power BI Performance Dashboard
@@ -74,6 +74,16 @@ The project uses the **Northwind Traders** sample dataset which includes:
 - Employees  
 
 ---
+
+📸 Dashboard Preview (All Years)
+
+<p align="center">
+ <img src="Dashboard-images/Northwind-Dashboard.png" width="70%">
+</p>
+
+
+---
+
 
 🎯 Objective
 
