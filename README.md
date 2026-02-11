@@ -7,9 +7,10 @@ Northwind Traders is a global import and export company that specializes in supp
 
 <h2>Problem Statement</h2>
 The goal of this analysis is to:
+
 <ul>
   <li>Determine noticeable sales trends over time.</li>
-  <li>Know which are the best and worst selling products.</li>
+  <li>which are the best selling products.</li>
   <li>Identify the company's key customers.</li>
   <li>Determine shipping costs across providers.</li>
   <li>Finally, the goal is to create data-driven plans that can aid in increasing sales, improving customer satisfaction, and driving the company's growth.</li>
@@ -75,7 +76,7 @@ This data was gotten from the Maven Analytics playground as part of the Maven No
 
 <h2>Dashboard Preview (All Years)</h2>
 <p align="left">
- <img src="Dashboard-images/Northwind-Dashboard.png" width="90%">
+ <img src="Dashboard-images/Northwind-Dashboard.png" width="100%">
 </p>
 
 
