@@ -1,6 +1,6 @@
 <h1> Maven Analytics - Northwind Challenge </h1>
 
-<h2><u> Introduction</u></h2>
+<h2>Introduction</h2>
 Northwind Traders is a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world. This project was aimed at creating a top-level KPI dashboard for the executive team to help them make insightful decisions and increase the sales of the company. This project analysis and its visualization were done in Power BI.
 
 ---
@@ -17,19 +17,19 @@ The goal of this analysis is to:
 
 ---
 
-📌 Key KPIs
-
-- Total Sales  
-- Revenue  
-- Total Orders  
-- Average Order Value  
-- Orders per Customer  
-- Freight %  
-- On-Time Delivery %
-
+<h2>Key KPIs</h2>
+<ul>
+<li> Total Sales  </li>
+<li> Revenue  </li>
+<li> Total Orders  </li>
+<li> Average Order Value  </li>
+<li> Orders per Customer  </li>
+<li> Freight %  </li>
+<li> On-Time Delivery % </li>
+</ul>
 ---
 
-📈 Dashboard Features
+<h2> Dashboard Features</h2>
 
 - 📅 **Dynamic Period Selection** (Auto-updates based on slicer)
 - 📊 **Monthly Orders Trend**
@@ -42,7 +42,7 @@ The goal of this analysis is to:
 
 ---
 
-🧮 Key DAX Measures Used
+<h2>Key DAX Measures Used</h2>
 
 - Revenue  
 - Sales  
@@ -55,7 +55,7 @@ The goal of this analysis is to:
 - Running Total Sales (Created , but not currently used in visuals)
 
 
-🛠 Tools & Technologies
+<h2>Tools & Technologies</h2>
 
 - Power BI Desktop  
 - DAX  
@@ -64,48 +64,26 @@ The goal of this analysis is to:
 - Interactive Visual Design  
 
 
-📂 Dataset
-
-The project uses the **Northwind Traders** sample dataset which includes:
-- Orders  
-- Order Details  
-- Customers  
-- Products  
-- Categories  
-- Shippers  
-- Employees  
+<h2>Dataset</h2>
+This data was gotten from the Maven Analytics playground as part of the Maven Northwind traders challenge. Here is a <a href = https://maven-datasets.s3.amazonaws.com/Northwind+Traders/Northwind+Traders.zip>  link to the dataset </a> for your reference.
 
 ---
 
-📸 Dashboard Preview (All Years)
-
+<h2>Dashboard Preview (All Years)</h2>
 <p align="left">
  <img src="Dashboard-images/Northwind-Dashboard.png" width="90%">
 </p>
 
-
 ---
 
-
-🎯 Objective
-
-The goal of this project was to:
-- Practice DAX calculations  
-- Build a professional dashboard  
-- Apply KPI design principles  
-- Create business-focused insights  
-- Improve data modeling skills  
-
----
-
-🙌 Acknowledgements
+<h2> Acknowledgements</h2>
 
 - Microsoft Northwind Sample Dataset  
 - Maven Analytics challenge inspiration  
 
 ---
 
-📬 Connect
+<h2> Connect </h2>
 
 If you have suggestions or feedback, feel free to share.  
 Thanks for checking out my project! 😊
