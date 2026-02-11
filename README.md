@@ -85,15 +85,16 @@ This data was gotten from the Maven Analytics playground as part of the Maven No
 
 
 <h2> Insights </h2>
-The total sales amount is $1.27M and revenue is $1.20M.
-On March 2015 - April 2015 , we have the highest amount of orders.
-Key customer like <b>QUICK-Stop ,Ernst Handel and Save-a-lot-Markets </b> have impacted the sales.
-<b>United Package</b> has the most frequent delays and high freight cost.
-<b>Federal Shipping</b> has provided fastest delivery with <b>94.1%</b>.
-Beverages is the Top selling category.
-Top 3 performing products are <b>1.Côte de Blaye  2.Thüringer Rostbratwurst  3.Raclette Courdavault </b>.
-Products are being delivered <b>93.8%</b> as On Time Delivery %.
-
+<ul>
+   <li> The total sales amount is $1.27M and revenue is $1.20M. </li>
+   <li> On March 2015 - April 2015 , we have the highest amount of orders.</li>
+   <li> Key customer like <b>QUICK-Stop ,Ernst Handel and Save-a-lot-Markets </b> have impacted the sales.</li>
+   <li><b> United Package</b> has the most frequent delays and high freight cost.</li>
+   <li><b> Federal Shipping</b> has provided fastest delivery with <b>94.1%</b>.</li>
+   <li> Beverages is the Top selling category.</li>
+   <li> Top 3 performing products are <b>1.Côte de Blaye  2.Thüringer Rostbratwurst  3.Raclette Courdavault </b>.</li>
+   <li><li> Products are being delivered <b>93.8%</b> as On Time Delivery %.</li>
+</ul>
 
 
 <h2> Connect </h2>
