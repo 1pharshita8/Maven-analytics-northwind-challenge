@@ -93,7 +93,7 @@ This data was gotten from the Maven Analytics playground as part of the Maven No
    <li><b> Federal Shipping</b> has provided fastest delivery with <b>94.1%</b>.</li>
    <li> Beverages is the Top selling category.</li>
    <li> Top 3 performing products are <b>1.Côte de Blaye  2.Thüringer Rostbratwurst  3.Raclette Courdavault </b>.</li>
-   <li><li> Products are being delivered <b>93.8%</b> as On Time Delivery %.</li>
+   <li> Products are being delivered <b>93.8%</b> as On Time Delivery %.</li>
 </ul>
 
 
