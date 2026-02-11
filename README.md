@@ -69,21 +69,30 @@ The goal of this analysis is to:
 
 
 <h2>Dataset</h2>
+
 This data was gotten from the Maven Analytics playground as part of the Maven Northwind traders challenge. Here is a <a href = https://maven-datasets.s3.amazonaws.com/Northwind+Traders/Northwind+Traders.zip>  link to the dataset </a> for your reference.
 
 
 
 
 <h2>Dashboard Preview (All Years)</h2>
+
+
 <p align="left">
  <img src="Dashboard-images/Northwind-Dashboard.png" width="100%">
 </p>
 
 
-<h2> Acknowledgements</h2>
 
-- Microsoft Northwind Sample Dataset.  
-- Maven Analytics challenge inspiration.  
+<h2> Insights </h2>
+The total sales amount is $1.27M and revenue is $1.20M.
+On March 2015 - April 2015 , we have the highest amount of orders.
+Key customer like <b>QUICK-Stop ,Ernst Handel and Save-a-lot-Markets </b> have impacted the sales.
+<b>United Package</b> has the most frequent delays and high freight cost.
+<b>Federal Shipping</b> has provided fastest delivery with <b>94.1%</b>.
+Beverages is the Top selling category.
+Top 3 performing products are <b>1.Côte de Blaye  2.Thüringer Rostbratwurst  3.Raclette Courdavault </b>.
+Products are being delivered <b>93.8%</b> as On Time Delivery %.
 
 
 
